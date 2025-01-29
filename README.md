@@ -33,13 +33,7 @@ Before running the project, make sure you have the following installed:
     ```
 
 2. **Install dependencies**:
-    If you're using a virtual environment, activate it. Then, install the required packages using `pip`:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-    Alternatively, if you're using Poetry, install dependencies with:
+   Install dependencies with:
 
     ```bash
     poetry install
