@@ -32,8 +32,7 @@ Before running the project, make sure you have the following installed:
     cd customer-churn-prediction
     ```
 
-2. **Install dependencies**:
-   Install dependencies with:
+2. **Install dependencies**:  
 
     ```bash
     poetry install
