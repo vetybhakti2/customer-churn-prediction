@@ -22,7 +22,7 @@ This project aims to predict customer churn based on various customer-related fe
 Before running the project, make sure you have the following installed:
 
 - Python 3.12+
-- pip (Python package manager)
+- poetry (Python package manager)
 
 ## Setup Instructions
 
