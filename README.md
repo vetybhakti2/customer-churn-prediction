@@ -61,8 +61,6 @@ Before running the project, make sure you have the following installed:
 3. **Predict Churn**:
    - Display model accuracy and classification report.
    - Make predictions for customer churn.
-   - Search by customer ID to see specific predictions.
-   - Filter customers predicted to churn.
    - Download predictions as a CSV file.
 
 ## Model Training
